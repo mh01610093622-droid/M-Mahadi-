@@ -1,0 +1,6 @@
+{
+  "name": "ভোলা সেবা - Bhola Seba",
+  "description": "চরফ্যাশন উপজেলা ও ভোলা জেলার সকল জরুরি, স্বাস্থ্য, যাতায়াত ও দৈনন্দিন সেবার নির্ভরযোগ্য ডিজিটাল ডিরেক্টরি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
